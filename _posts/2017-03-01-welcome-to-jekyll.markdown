@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fodell Rules"
+title:  "Intro to Atom Info"
 date:   2017-03-01 09:45:12 -0600
 categories: jekyll update
 ---
